@@ -1,2 +1,2 @@
-# Wenbo-s-Portfolio
+# Wenbo-Ni-Professional-Portfolio
 Professional WebDev Portfolio
