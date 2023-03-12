@@ -1,0 +1,12 @@
+header {
+    width: 100%;
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: left;
+}
+ul.inlne li {
+    text-align: right;
+    display: inline;
+}
